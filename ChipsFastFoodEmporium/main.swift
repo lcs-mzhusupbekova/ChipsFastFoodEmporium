@@ -18,7 +18,7 @@ import Foundation
 //var drinkChoice = 0
 //var dessertChoice = 0
 //var otherChoice = 0
-//
+//}
 
 var burgerChoice = 0
 
@@ -162,7 +162,8 @@ while 1 == 1 {
 }
 
 
-//}
+// dictionaties : to collect customer choices and sum total calories
+
 var burger : [Int : Int] = [:]
 burger[1] = 461
 burger[2] = 431
